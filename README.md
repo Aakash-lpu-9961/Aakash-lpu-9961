@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Aakash Kumar</h1>
 <h3 align="center">A passionate learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakash-lpu-9961&label=Profile%20views&color=0e75b6&style=flat" alt="aakash-lpu-9961" /> </p>
@@ -17,9 +17,9 @@
 <p align="left">
 <a href="https://twitter.com/aakash9961kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakash9961kumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aakash kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash kumar" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100008755270520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008755270520" height="30" width="40" /></a>
+<a href="https://fb.com/100008755270520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100008755270520" height="30" width="40" /></a>
 <a href="https://instagram.com/aakashkumarjh9961" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashkumarjh9961" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/channel/ucuygjw-nrkxgzmcyxkh9nxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/ucuygjw-nrkxgzmcyxkh9nxw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucuygjw-nrkxgzmcyxkh9nxw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuygjw-nrkxgzmcyxkh9nxw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
